@@ -1,3 +1,3 @@
 # ONDC-h2s
 
-Our legal solution to ONDC H2S
+Our legal draft to ONDC H2S
